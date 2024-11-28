@@ -1,4 +1,14 @@
 # amplimed-avaliacao2-elevador
 Desenvolvimento de um Fluxograma para um Elevador
 
+### Diagrama de caso de uso: 
 ![image](https://github.com/user-attachments/assets/450b248a-5970-44d2-be3f-8fb12f34b2f6)
+
+### Diagrama de fluxo 
+[![](https://mermaid.ink/img/pako:eNqFlM2O2jAQx1_F8hkoXwmQQysKVO1hq7bQrVTCYTYZwNrETh0Hlg08TNVDtYce-wS8WO0klEChGyHFmfl5Zjz_wSn1hI_UofNArL0lSEUmQ5cT_YyV_pq-4_tfHhMOGYuAeUzB_uf-N8bER9LnPkiMZzk-WKJ3P4AINLRJRwGuwBfSmJl4tcuZIZPoKSZ4alY60g9B-iqBoPD3Yw-5_zHBBKe3KNmceSDJGxZA4UKusMg3xOtw4SvRN2KFn6OpeUnSyEsnEUggAxZCCRqKNb-EvQb2IMpH_YTfEoxV-kF7C2YU3oHU1hc6Pxbrw9HHa6a85bEBEylMuX_7cOBG3J-O4hU8Mu2dCB9ion_mVKbRJWVItfrytOkXdDDQdszCLfkCTOnAEZpqQe2fiC6OQLBI9k8hiYHB7Nr-97q87VG7MynzFMkd476mSgpe4gphTDg8J0tbM_bt_vvZ0G0LGS_zmfK3pnHb827_OzH_zWBm4MqWZ5PkFR7FKcbkdMCuuMuWo3JjJaLpM1M2uxLgonQmYFbBuf30PBmix9HltEJDlCEwX18UqYFdqpYYoksdvdT_kXuXunynOUiUGG-4Rx0lE6xQKZLFkjpzCGL9lUQ-KBwyWEgID0gEnDopfaBOw-rW7Ga7bnct2663Lduq0A11qq1OrdWua0O9V293e1ZzV6GPQugIjVq9YzVa7V6r0bI6TbthZ_G-Zs48PPpMCXmT33LZZbf7A0E-t2I?type=png)](https://mermaid.live/edit#pako:eNqFlM2O2jAQx1_F8hkoXwmQQysKVO1hq7bQrVTCYTYZwNrETh0Hlg08TNVDtYce-wS8WO0klEChGyHFmfl5Zjz_wSn1hI_UofNArL0lSEUmQ5cT_YyV_pq-4_tfHhMOGYuAeUzB_uf-N8bER9LnPkiMZzk-WKJ3P4AINLRJRwGuwBfSmJl4tcuZIZPoKSZ4alY60g9B-iqBoPD3Yw-5_zHBBKe3KNmceSDJGxZA4UKusMg3xOtw4SvRN2KFn6OpeUnSyEsnEUggAxZCCRqKNb-EvQb2IMpH_YTfEoxV-kF7C2YU3oHU1hc6Pxbrw9HHa6a85bEBEylMuX_7cOBG3J-O4hU8Mu2dCB9ion_mVKbRJWVItfrytOkXdDDQdszCLfkCTOnAEZpqQe2fiC6OQLBI9k8hiYHB7Nr-97q87VG7MynzFMkd476mSgpe4gphTDg8J0tbM_bt_vvZ0G0LGS_zmfK3pnHb827_OzH_zWBm4MqWZ5PkFR7FKcbkdMCuuMuWo3JjJaLpM1M2uxLgonQmYFbBuf30PBmix9HltEJDlCEwX18UqYFdqpYYoksdvdT_kXuXunynOUiUGG-4Rx0lE6xQKZLFkjpzCGL9lUQ-KBwyWEgID0gEnDopfaBOw-rW7Ga7bnct2663Lduq0A11qq1OrdWua0O9V293e1ZzV6GPQugIjVq9YzVa7V6r0bI6TbthZ_G-Zs48PPpMCXmT33LZZbf7A0E-t2I)
+
+
+
+### **Pergunta Adicional:** O que o elevador fará se uma pessoa chamou o elevador no 5º andar, mas alguém já entrou no 2º andar?
+- Se uma pessoa chamou no 5º andar enquanto outra entrou no 2º andar, o elevador prioriza atender o passageiro no 2º andar primeiro, pois já está no caminho para o 5º andar. Essa abordagem otimiza o percurso e reduz o tempo de espera.
+
